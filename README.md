@@ -1,4 +1,4 @@
-# Colin White - AI Project 1 - Portfolio Optimization Comparison
+AI Project 1 - Portfolio Optimization Comparison
 January 28, 2025
 
 ## Executive Summary
